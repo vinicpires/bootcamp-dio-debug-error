@@ -1,6 +1,6 @@
 # Tratamento de Erros
 
-Projeto referente ao curso "Tratamento de Erros" que ministrei pela [Digital Innovation One](https://digitalinnovation.one/).
+Projeto referente ao curso "Tratamento de Erros" que participei pela [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividade: validação de erros por tipo
 
